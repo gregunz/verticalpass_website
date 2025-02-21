@@ -15,11 +15,3 @@ fr:
  title: Titre en francais
  params:
    description: Description en francais
- menu:
-   main:
-     - name: main
-       url: '#about'
-       weight: 1
-     - name: Features
-       url: '#features'
-       weight: 20
